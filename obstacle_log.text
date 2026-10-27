@@ -1,0 +1,12 @@
+
+Personal Job Application Tracker - Obstacle Log
+
+1. Initially, managing application statuses was confusing.
+   Solution: Stored each application in a dictionary.
+
+2. Needed to save application details permanently.
+   Solution: Used JSON and text files.
+
+3. Needed to count applications by status.
+   Solution: Used a simple loop to calculate the counts.
+   not a hard obstacle but still it was confusing
